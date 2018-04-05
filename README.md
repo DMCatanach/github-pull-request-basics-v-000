@@ -89,7 +89,9 @@ jQuery).
 
 Click on the New Pull Request button.
 
-![](https://curriculum-content.s3.amazonaws.com/gitpulls/2.png)
+![](https://curriculum-content.s3.amazonaws.com/gitpulls/2.png) 
+Note: if you are reading the Markdown version of this, this image is located in
+the img folder. 
 
 ### Step 2
 
